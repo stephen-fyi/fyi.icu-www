@@ -1,0 +1,8 @@
+@import "./app.css";
+@import "./form.css";
+@import "./button.css";
+@import "./nav.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
